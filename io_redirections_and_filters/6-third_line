@@ -1,2 +1,2 @@
 #!/bin/bash
-pr --first-line-number=3 iacta
+head -3 iacta
