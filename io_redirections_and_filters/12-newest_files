@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t $( find . -type f -print )
+ls -1t | head -10
